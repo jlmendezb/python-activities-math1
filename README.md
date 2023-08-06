@@ -1,6 +1,8 @@
-# Aquí podría poner el nombre de mi proyecto
-## Este es un repositorio de prueba en Github
-### Línea 3
-#### Estoy editando el README
-##### Este texto es en formato MARKDOWN
-##### En el README se debe describir todo lo que se encontrará en el repositorio, incluir imágenes, ejemplos de uso, etc...
+# Nombre del proyecto: "Inventario piloto de actividades computacionales (en Python) que complementen aprendizajes de la asignatura Matemáticas 1 en el contexto de los Programas de Estudio 2016 de la Escuela Nacional Colegio de Ciencias y Humanidades - CCH"
+## Objetivo: Provocar el interés académico por crear un inventario de actividades computacionales que complementen los objetivos de los aprendizajes de los Programas de Estudio 2016 de Matemáticas. En este repositorio se muestran casos piloto para la asignatura Matemáticas 1.
+#### Problema que resuelve: Los profesores de la asignatura Matemáticas no tienen un inventario de actividades en Python, que puedan descargarse y modificarse eficientemente, para ser ágilmente introducidas a los flujos de trabajo y libertad de cátedra de cada docente. Las actividades piloto propuestas fortalecen la comprensión de los aprendizajes de los Programas de Estudio 2016 del CCH.
+#### Lenguaje de programación utilizado: Python. Por su difusión. 
+#### Descripción de lo que se está simulando, analizando o demostrando: Se presentan pequeñas actividades en Python que favorecen la comprensión de conceptos básicos como la utilidad de los números, diferentes tipos de números, actividades que operan con números, posición de los números en la recta numérica y su relación de la posición con la cantidad representada así como el concepto de número racional a partir del entendimiento del numerador, el denominador y la relación entre ambos.
+#### Ejemplo básico de funcionamiento general: Al ejecutar cada celda del Jupyter Notebook, la secuencia solicitará datos al usuario para ejecutarse y provocar la reflexión sobre algunos conceptos teóricos matemáticos.
+#### Tema(s) que ayuda a comprender: Significado de los números racionales Q (enteros Z y no enteros) e irracionales I; Las diversas simbolizaciones de un número racional y sus equivalencias: fracción (parte de un todo), decimal, porcentaje; La comparación entre cantidades (relación de orden) empleando las diferentes simbolizaciones; Fracciones equivalentes.
+#### Justificación de cómo ayuda al alumno a comprender el tema: En la práctica docente de matemáticas se requieren de actividades ágiles y dinámicas donde el profesor pueda hacer el cambio de valores, variables, información de las problemáticas, y así el alumno de manera ágil pueda interactuar con la información, sin estropear los tiempos y su flujo de trabajo y de pensamiento, y así ser consciente de las relaciones entre diferentes conceptos matemáticos y sus efectos en los resultados.
